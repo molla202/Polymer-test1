@@ -63,8 +63,8 @@ Not: alttakileri doldurmak için. apileri alalım. Blockscout aşadakilerle gith
 ```
 PRIVATE_KEY_1='BURAYA PUAN ALMAK İÇİN GİTHUB BAĞLAMIŞTIK CÜZDAN BAĞLDIYSANIZ ONUN PRİVATE KEYİNİ YAZICAKSINIZ VE FAUCETLERİ ALICAKSINIZ. https://chainlist.org/?testnets=true&search=sepolia burdan ağları ekleyip kontrol edin faucet geldimi die'
 
-OP_ALCHEMY_API_KEY=''
-BASE_ALCHEMY_API_KEY=''
+OP_ALCHEMY_API_KEY='Alchemy op api'
+BASE_ALCHEMY_API_KEY='Alchemy base api'
 OP_BLOCKSCOUT_API_KEY=''
 BASE_BLOCKSCOUT_API_KEY=''
 ```
